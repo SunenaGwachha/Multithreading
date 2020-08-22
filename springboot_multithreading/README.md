@@ -33,9 +33,9 @@ Application.yml
       
         enabled: true
             
-   server:
+     server:
   
-    port: 9191
+       port: 9191
     
     
     
