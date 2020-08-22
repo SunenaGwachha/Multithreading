@@ -25,15 +25,15 @@ Application.properties
 
 Application.yml
 
-  spring:
+    spring:
   
-    h2:
+     h2:
     
       console:
       
         enabled: true
             
-  server:
+   server:
   
     port: 9191
     
